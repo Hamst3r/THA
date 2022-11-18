@@ -27,9 +27,9 @@ other_links:
     - title: STEAM
       href: https://steamcommunity.com/id/hamsteralliance
       desc: "Add me on Steam."
-    - title: COMPLETIONATOR
-      href: http://www.completionator.com/Collection/Index/13467?progressStatusIDs=2&isHidden=false&shouldBreakOutCompilationGames=true&sortColumn=GameName&sortDirection=ASC
-      desc: "My game collection and what I've completed."
     - title: MUSIC ARCHIVE
       href: https://www.youtube.com/hamsteralliancemusic
       desc: "An archive with more of my music on Youtube."
+    - title: MORE LINKS
+      href: https://github.com/Hamst3r/THA/blob/master/links.md
+      desc: "Full list of THA links"
