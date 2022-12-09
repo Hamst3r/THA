@@ -33,3 +33,4 @@ I'm on the internet.
 
 * LinkedIn: http://www.linkedin.com/in/hamsteralliance
 * IMDB: https://www.imdb.com/name/nm1158256/
+* Keybase: https://keybase.io/hamsteralliance
