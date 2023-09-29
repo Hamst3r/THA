@@ -11,11 +11,12 @@ main_links:
     - title: YOUTUBE
       href: https://www.youtube.com/hamsteralliance
       desc: "Check out my videos"
-    - title: SHOUTBOX
-      href: http://www.hamsteralliance.com#shoutbox
-      desc: Leave a message in the Shoutbox
     - title: LYRICS
       href: https://genius.com/artists/The-hamster-alliance
+      desc: "Lyrics and additional information about my music"
+    - title: SHOUTBOX
+      href: http://www.hamsteralliance.com#shoutbox
+      desc: "Leave a message in the Shoutbox"
 other_links:
     - title: MY ANIME LIST
       href: https://myanimelist.net/profile/hamsteralliance
