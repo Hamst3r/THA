@@ -1,5 +1,5 @@
 ---
-title: August 29, 2023
+title: October 21, 2023
 is_box: true  # tells Jekyll that this is a box, don't change
 ---
-I thought it would be fun to share some unfinished music, so I put together an Unfinished Music Mix. I've got enough unfinished music to do a lot of these and I might as well. Have a listen: [Unfinished Music Mix 01](https://www.youtube.com/watch?v=BbWs2e42lGg)
+Hey! New tune on THA radio: [Hard and Slow](https://www.youtube.com/watch?v=0yMsdCAIzfI). It's R&B Metal. R&B&M, if you prefer. There's also now a link at the top of the page to read my lyrics in one place. Here's the lyrics page for [Hard and Slow](https://genius.com/The-hamster-alliance-hard-and-slow-lyrics).
