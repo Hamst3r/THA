@@ -1,5 +1,5 @@
 ---
-title: May 05, 2024
+title: November 30, 2024
 is_box: true  # tells Jekyll that this is a box, don't change
 ---
-It's time to get out your old sound cards and demo CDs and listen to [Sound Blasted](https://www.youtube.com/watch?v=4AZcnMb1Xg0).
+Hey, it's been a while! Got a new song, one about toxic relationships, in which I attempt once again to fuse R&B with Metal and some other stuff. It's called [Your Love Is No Good](https://www.youtube.com/watch?v=4AZcnMb1Xg0).
