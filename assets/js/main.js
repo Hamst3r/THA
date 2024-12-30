@@ -44,7 +44,7 @@ class radio {
         audio.addEventListener('ended', radio.end);
                 
         // Turn volume down
-        audio.volume    = .5;
+        audio.volume    = 1;
 
         // Select first song
         radio.select($(playlist[0]));
