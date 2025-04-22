@@ -2,8 +2,8 @@ main_links:
     - title: E-MAIL
       href: mailto:hamster@hamsteralliance.com
       desc: "Send me an email"
-    - title: TWITTER
-      href: https://www.twitter.com/hamst3r
+    - title: BLUESKY
+      href: https://bsky.app/hamsteralliance.com
       desc: "Follow me on Twitter"
     - title: FACEBOOK
       href: https://www.facebook.com/hamsteralliance
