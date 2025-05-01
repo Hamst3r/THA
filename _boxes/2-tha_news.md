@@ -1,5 +1,5 @@
 ---
-title: November 30, 2024
+title: May 1, 2025
 is_box: true  # tells Jekyll that this is a box, don't change
 ---
-Hey, it's been a while! Got a new song, one about toxic relationships, in which I once again attempt to fuse R&B with Metal and some other stuff. It's called [Your Love Is No Good](https://www.youtube.com/watch?v=4AZcnMb1Xg0).
+I'm back! With a remake! Of something from 1999! It's electronic! It's chemical! It's dreams! It's [Chemical Dreams 2025](https://youtu.be/FBiK6zfu-CQ)!
