@@ -1,5 +1,5 @@
 ---
-title: May 1, 2025
+title: May 25, 2025
 is_box: true  # tells Jekyll that this is a box, don't change
 ---
-I'm back! With a remake! Of something from 1999! It's electronic! It's chemical! It's dreams! It's [Chemical Dreams 2025](https://youtu.be/FBiK6zfu-CQ)!
+More new music! This time, a style I don't think I've ever done before. Have a listen: [Disconnected Hideaway](https://www.youtube.com/watch?v=EkyGTQ35PXE)!
