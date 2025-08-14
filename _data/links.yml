@@ -2,12 +2,6 @@ main_links:
     - title: E-MAIL
       href: mailto:hamster@hamsteralliance.com
       desc: "Send me an email"
-    - title: BLUESKY
-      href: https://bsky.app/profile/hamsteralliance.com
-      desc: "Follow me on Twitter"
-    - title: FACEBOOK
-      href: https://www.facebook.com/hamsteralliance
-      desc: "My personal Facebook"
     - title: YOUTUBE
       href: https://www.youtube.com/hamsteralliance
       desc: "Check out my videos"
@@ -30,9 +24,7 @@ other_links:
     - title: STEAM
       href: https://steamcommunity.com/id/hamsteralliance
       desc: "Add me on Steam."
-    - title: MUSIC ARCHIVE
-      href: https://www.youtube.com/hamsteralliancemusic
-      desc: "An archive with more of my music on Youtube."
     - title: MORE LINKS
       href: https://www.hamsteralliance.com/links
       desc: "Full list of THA links"
+
