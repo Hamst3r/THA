@@ -1,18 +1,18 @@
 {
   "link": [
     {
-      "name": "Wallabag",
-      "url": "https://wallabag.org/en",
-      "icon": "icon-wallabag.png",
-      "invert": true,
-      "tags": ["test"]
+      "name": "Youtube",
+      "url": "https://www.youtube.com/feed/subscriptions",
+      "icon": "yt.png",
+      "invert": false,
+      "tags": ["visual"]
     },
     {
-      "name": "Files",
-      "url": "https://larsjung.de/h5ai/",
-      "icon": "icon-files.png",
+      "name": "Letterboxd",
+      "url": "https://letterboxd.com/hamsteralliance/films/",
+      "icon": "lb.png",
       "invert": false,
-      "tags": ["another"]
+      "tags": ["visual"]
     },
     {
       "name": "Gitea",
