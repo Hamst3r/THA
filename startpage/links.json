@@ -52,14 +52,14 @@
     {
       "name": "THA Admin",
       "url": "https://github.com/Hamst3r/THA",
-      "icon": "gh.png",
+      "icon": "github.png",
       "invert": true,
       "tags": ["THA"]
     },
     {
       "name": "Shoutbox Admin",
       "url": "https://hamsteralliance.ishoutbox.com/ladm?bid=10137",
-      "icon": "sb.png",
+      "icon": "is.png",
       "invert": false,
       "tags": ["THA"]
     },
