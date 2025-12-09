@@ -5,7 +5,7 @@
       "url": "https://wallabag.org/en",
       "icon": "icon-wallabag.png",
       "invert": true,
-      "tags":
+      "tags": []
     },
     {
       "name": "Files",
