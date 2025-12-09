@@ -71,39 +71,39 @@
       "tags": ["UTILITY"]
     },
     {
-      "name": "Alphabetizer",
-      "url": "http://alphabetizer.flap.tv/",
-      "icon": "alphabetizer.png",
-      "invert": false,
+      "name": "Tap BPM",
+      "url": "https://www.all8.com/tools/bpm.htm",
+      "icon": "bpm.png",
+      "invert": true,
       "tags": ["UTILITY"]
     },
     {
-      "name": "Alphabetizer",
-      "url": "http://alphabetizer.flap.tv/",
-      "icon": "alphabetizer.png",
+      "name": "Bedroom Producers",
+      "url": "https://bedroomproducersblog.com/",
+      "icon": "bpb.png",
       "invert": false,
-      "tags": ["UTILITY"]
+      "tags": ["MUSIC"]
     },
     {
-      "name": "Alphabetizer",
-      "url": "http://alphabetizer.flap.tv/",
-      "icon": "alphabetizer.png",
+      "name": "Music Software Deals",
+      "url": "https://musicsoftwaredeals.com/search/?jsf=jet-engine:main&sort=orderby%3Amodified%3Border%3ADESC",
+      "icon": "msd.png",
       "invert": false,
-      "tags": ["UTILITY"]
+      "tags": ["MUSIC"]
     },
     {
-      "name": "Alphabetizer",
-      "url": "http://alphabetizer.flap.tv/",
-      "icon": "alphabetizer.png",
+      "name": "Loot Audio",
+      "url": "http://www.lootaudio.com/",
+      "icon": "la.png",
       "invert": false,
-      "tags": ["UTILITY"]
+      "tags": ["MUSIC"]
     },
     {
-      "name": "Alphabetizer",
-      "url": "http://alphabetizer.flap.tv/",
-      "icon": "alphabetizer.png",
+      "name": "Plugin Boutique",
+      "url": "https://www.pluginboutique.com/",
+      "icon": "pb.png",
       "invert": false,
-      "tags": ["UTILITY"]
+      "tags": ["MUSIC"]
     }
   ]
 }
