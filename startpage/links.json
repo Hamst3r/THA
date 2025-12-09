@@ -102,8 +102,22 @@
       "name": "Plugin Boutique",
       "url": "https://www.pluginboutique.com/",
       "icon": "pb.png",
+      "invert": true,
+      "tags": ["MUSIC"]
+    },
+    {
+      "name": "Plugin Alliance",
+      "url": "https://www.plugin-alliance.com/",
+      "icon": "pa.png",
       "invert": false,
       "tags": ["MUSIC"]
+    },
+    {
+      "name": "MALgraph",
+      "url": "https://anime.plus/hamsteralliance/profile",
+      "icon": "mg.png",
+      "invert": false,
+      "tags": ["ANIME"]
     }
   ]
 }
