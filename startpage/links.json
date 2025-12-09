@@ -15,53 +15,53 @@
       "tags": ["visual"]
     },
     {
-      "name": "Gitea",
-      "url": "https://gitea.io",
-      "icon": "icon-gitea.png",
+      "name": "MyAnimeList",
+      "url": "https://myanimelist.net/",
+      "icon": "mal.png",
       "invert": false,
-      "tags": []
+      "tags": ["anime"]
     },
     {
-      "name": "Webmail",
-      "url": "https://gmail.com",
-      "icon": "icon-mail.png",
+      "name": "Trakt",
+      "url": "https://trakt.tv/users/hamsteralliance/history/shows/added",
+      "icon": "trakt.png",
       "invert": false,
-      "tags": []
+      "tags": ["visual"]
     },
     {
-      "name": "NextCloud",
-      "url": "https://nextcloud.com",
-      "icon": "icon-nextcloud.svg",
+      "name": "JustWatch",
+      "url": "https://www.justwatch.com/",
+      "icon": "jw.png",
       "invert": false,
-      "tags": []
+      "tags": ["visual"]
     },
     {
-      "name": "OwnCloud",
-      "url": "https://owncloud.com",
-      "icon": "icon-owncloud.png",
+      "name": "Plex",
+      "url": "http://127.0.0.1:32400/web/index.html",
+      "icon": "plex.png",
       "invert": false,
-      "tags": []
+      "tags": ["visual"]
     },
     {
-      "name": "Pastebin",
-      "url": "https://github.com/mkaczanowski/pastebin",
-      "icon": "icon-pastebin.png",
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/home/queue/watching",
+      "icon": "cr.png",
       "invert": false,
-      "tags": []
+      "tags": ["anime"]
     },
     {
-      "name": "Element",
-      "url": "https://element.io",
-      "icon": "icon-element.png",
+      "name": "THA Admin",
+      "url": "https://github.com/Hamst3r/THA",
+      "icon": "github.png",
       "invert": false,
-      "tags": []
+      "tags": ["THA"]
     },
     {
-      "name": "FreshRSS",
-      "url": "https://freshrss.org",
-      "icon": "icon-rss.png",
-      "invert": true,
-      "tags": []
+      "name": "Shoutbox Admin",
+      "url": "https://hamsteralliance.ishoutbox.com/ladm?bid=10137",
+      "icon": "sb.png",
+      "invert": false,
+      "tags": ["THA"]
     },
     {
       "name": "Syncthing",
