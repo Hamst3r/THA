@@ -5,14 +5,14 @@
       "url": "https://wallabag.org/en",
       "icon": "icon-wallabag.png",
       "invert": true,
-      "tags": []
+      "tags": ["test"]
     },
     {
       "name": "Files",
       "url": "https://larsjung.de/h5ai/",
       "icon": "icon-files.png",
       "invert": false,
-      "tags": []
+      "tags": ["another"]
     },
     {
       "name": "Gitea",
