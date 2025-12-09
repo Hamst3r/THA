@@ -5,14 +5,14 @@
       "url": "https://www.youtube.com/feed/subscriptions",
       "icon": "yt.png",
       "invert": false,
-      "tags": ["VISUAL"]
+      "tags": ["VIDEO"]
     },
     {
       "name": "Letterboxd",
       "url": "https://letterboxd.com/hamsteralliance/films/",
       "icon": "lb.png",
       "invert": false,
-      "tags": ["VISUAL"]
+      "tags": ["MOVIES"]
     },
     {
       "name": "MyAnimeList",
@@ -26,21 +26,21 @@
       "url": "https://trakt.tv/users/hamsteralliance/history/shows/added",
       "icon": "trakt.png",
       "invert": false,
-      "tags": ["VISUAL"]
+      "tags": ["MOVIES"]
     },
     {
       "name": "JustWatch",
       "url": "https://www.justwatch.com/",
       "icon": "jw.png",
       "invert": false,
-      "tags": ["VISUAL"]
+      "tags": ["MOVIES"]
     },
     {
       "name": "Plex",
       "url": "http://127.0.0.1:32400/web/index.html",
       "icon": "plex.png",
       "invert": false,
-      "tags": ["VISUAL"]
+      "tags": ["VIDEO"]
     },
     {
       "name": "Crunchyroll",
@@ -132,6 +132,13 @@
       "icon": "sc.png",
       "invert": false,
       "tags": ["MUSIC"]
+    },
+    {
+      "name": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/",
+      "icon": "rt.png",
+      "invert": false,
+      "tags": ["MOVIES"]
     }
   ]
 }
