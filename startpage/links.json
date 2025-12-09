@@ -5,49 +5,49 @@
       "url": "https://www.youtube.com/feed/subscriptions",
       "icon": "yt.png",
       "invert": false,
-      "tags": ["visual"]
+      "tags": ["VISUAL"]
     },
     {
       "name": "Letterboxd",
       "url": "https://letterboxd.com/hamsteralliance/films/",
       "icon": "lb.png",
       "invert": false,
-      "tags": ["visual"]
+      "tags": ["VISUAL"]
     },
     {
       "name": "MyAnimeList",
       "url": "https://myanimelist.net/",
       "icon": "mal.png",
       "invert": true,
-      "tags": ["anime"]
+      "tags": ["ANIME"]
     },
     {
       "name": "Trakt",
       "url": "https://trakt.tv/users/hamsteralliance/history/shows/added",
       "icon": "trakt.png",
       "invert": false,
-      "tags": ["visual"]
+      "tags": ["VISUAL"]
     },
     {
       "name": "JustWatch",
       "url": "https://www.justwatch.com/",
       "icon": "jw.png",
       "invert": false,
-      "tags": ["visual"]
+      "tags": ["VISUAL"]
     },
     {
       "name": "Plex",
       "url": "http://127.0.0.1:32400/web/index.html",
       "icon": "plex.png",
       "invert": false,
-      "tags": ["visual"]
+      "tags": ["VISUAL"]
     },
     {
       "name": "Crunchyroll",
       "url": "http://www.crunchyroll.com/home/queue/watching",
       "icon": "cr.png",
       "invert": false,
-      "tags": ["anime"]
+      "tags": ["ANIME"]
     },
     {
       "name": "THA Admin",
@@ -68,42 +68,42 @@
       "url": "http://alphabetizer.flap.tv/",
       "icon": "alphabetizer.png",
       "invert": false,
-      "tags": ["utility"]
+      "tags": ["UTILITY"]
     },
     {
       "name": "Alphabetizer",
       "url": "http://alphabetizer.flap.tv/",
       "icon": "alphabetizer.png",
       "invert": false,
-      "tags": ["utility"]
+      "tags": ["UTILITY"]
     },
     {
       "name": "Alphabetizer",
       "url": "http://alphabetizer.flap.tv/",
       "icon": "alphabetizer.png",
       "invert": false,
-      "tags": ["utility"]
+      "tags": ["UTILITY"]
     },
     {
       "name": "Alphabetizer",
       "url": "http://alphabetizer.flap.tv/",
       "icon": "alphabetizer.png",
       "invert": false,
-      "tags": ["utility"]
+      "tags": ["UTILITY"]
     },
     {
       "name": "Alphabetizer",
       "url": "http://alphabetizer.flap.tv/",
       "icon": "alphabetizer.png",
       "invert": false,
-      "tags": ["utility"]
+      "tags": ["UTILITY"]
     },
     {
       "name": "Alphabetizer",
       "url": "http://alphabetizer.flap.tv/",
       "icon": "alphabetizer.png",
       "invert": false,
-      "tags": ["utility"]
-    },
+      "tags": ["UTILITY"]
+    }
   ]
 }
