@@ -118,6 +118,20 @@
       "icon": "mg.png",
       "invert": false,
       "tags": ["ANIME"]
+    },
+    {
+      "name": "Audio Plugin Deals",
+      "url": "https://audioplugin.deals/",
+      "icon": "apd.png",
+      "invert": false,
+      "tags": ["MUSIC"]
+    },
+    {
+      "name": "Singing Carrots",
+      "url": "https://singingcarrots.com/",
+      "icon": "sc.png",
+      "invert": false,
+      "tags": ["MUSIC"]
     }
   ]
 }
