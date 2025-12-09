@@ -79,7 +79,6 @@ function loadJSON() {
                     '<a class="bookmark" href="'+data.url+'" target="_blank">' +
                     '<img class="retro invert" src="images/icons/'+data.icon+'"/>' +
                     '<span class="link-name">'+data.name+'</span>' +
-                    '<br><span class="link-url">'+data.url+'</span>' +
                     '<br><span class="tags"></span><br>' +
                     '</a></li>'
                 );
