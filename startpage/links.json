@@ -18,7 +18,7 @@
       "name": "MyAnimeList",
       "url": "https://myanimelist.net/",
       "icon": "mal.png",
-      "invert": false,
+      "invert": true,
       "tags": ["anime"]
     },
     {
@@ -52,8 +52,8 @@
     {
       "name": "THA Admin",
       "url": "https://github.com/Hamst3r/THA",
-      "icon": "github.png",
-      "invert": false,
+      "icon": "gh.png",
+      "invert": true,
       "tags": ["THA"]
     },
     {
@@ -64,11 +64,46 @@
       "tags": ["THA"]
     },
     {
-      "name": "Syncthing",
-      "url": "https://syncthing.net/",
-      "icon": "icon-syncthing.png",
+      "name": "Alphabetizer",
+      "url": "http://alphabetizer.flap.tv/",
+      "icon": "alphabetizer.png",
       "invert": false,
-      "tags": []
-    }
+      "tags": ["utility"]
+    },
+    {
+      "name": "Alphabetizer",
+      "url": "http://alphabetizer.flap.tv/",
+      "icon": "alphabetizer.png",
+      "invert": false,
+      "tags": ["utility"]
+    },
+    {
+      "name": "Alphabetizer",
+      "url": "http://alphabetizer.flap.tv/",
+      "icon": "alphabetizer.png",
+      "invert": false,
+      "tags": ["utility"]
+    },
+    {
+      "name": "Alphabetizer",
+      "url": "http://alphabetizer.flap.tv/",
+      "icon": "alphabetizer.png",
+      "invert": false,
+      "tags": ["utility"]
+    },
+    {
+      "name": "Alphabetizer",
+      "url": "http://alphabetizer.flap.tv/",
+      "icon": "alphabetizer.png",
+      "invert": false,
+      "tags": ["utility"]
+    },
+    {
+      "name": "Alphabetizer",
+      "url": "http://alphabetizer.flap.tv/",
+      "icon": "alphabetizer.png",
+      "invert": false,
+      "tags": ["utility"]
+    },
   ]
 }
