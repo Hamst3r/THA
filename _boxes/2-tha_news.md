@@ -1,8 +1,8 @@
 ---
-title: February 04, 2026
+title: March 23, 2026
 is_box: true  # tells Jekyll that this is a box, don't change
 ---
-Anywhere But Here - Utopalgia? I dunno, have some Lo-Fi Guitar Vibes: https://www.youtube.com/watch?v=nLsH63tz2Kw
+Starlight - I'm gonna be working on some more ambient tunes for a while, pack your bags to go to space.
 
 
 
