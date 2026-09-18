@@ -1,10 +1,5 @@
 ---
-title: March 23, 2026
+title: September 18, 2026
 is_box: true  # tells Jekyll that this is a box, don't change
 ---
-Starlight - I'm gonna be working on some more ambient tunes for a while, pack your bags to go to space.
-
-
-
-
-
+Murder. MURDER. As in a group of crows. But also MURDER. As in being killed by a group of crows. A collaboration with long-time friend Sary Beary.
